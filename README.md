@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ActividadesIUDigital-EstrucuturaDeDatos
-=======
 # S25 - Actividad - Ejercicios de práctica 1
 
 ## Descripción
@@ -17,5 +14,4 @@ Este proyecto contiene ejercicios prácticos en **Java** que permiten reforzar c
 4. **Mostrar todos y cada uno de los datos** del tercer arreglo.  
 
 ---
-✍️ *Proyecto académico desarrollado como práctica de programación en Java para el curso Estructura de Datos.*
-
+✍️ *Proyecto académico desarrollado como práctica de programación en Java para el curso **Estructura de Datos**.*
