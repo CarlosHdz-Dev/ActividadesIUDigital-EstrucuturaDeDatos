@@ -1,18 +1,17 @@
-## Getting Started
+# S25 - Actividad - Ejercicios de práctica 1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descripción
+Este proyecto contiene ejercicios prácticos en **Java** que permiten reforzar conceptos básicos de programación y estructuras de datos.
 
-## Folder Structure
+## Ejercicios
 
-The workspace contains two folders by default, where:
+1. **Definir dos arreglos unidimensionales** que permitan almacenar 7 números ingresados por el usuario.  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+2. **Llenar un tercer arreglo** con la diferencia de los dos primeros arreglos.  
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+3. **Calcular y mostrar el promedio** de todos los datos.  
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+4. **Mostrar todos y cada uno de los datos** del tercer arreglo.  
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+✍️ *Proyecto académico desarrollado como práctica de programación en Java para el curso **Estructura de Datos**.*
