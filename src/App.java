@@ -8,6 +8,7 @@ public class App {
         do {
             System.out.println("=== MENÚ PRINCIPAL === ");
             System.out.println("1) S25 Actividad Ejercicios De Practica 1");
+            System.out.println("2) S25 Actividad Ejercicios De Practica 2 (Pilas)");
             System.out.println("0) Salir");
             System.out.print("Seleccione una opción: ");
             opcion = scanner.nextInt();
@@ -15,10 +16,11 @@ public class App {
 
             switch (opcion) {
                 case 1:
-                    // Llama a la clase del Ejercicio 1
                     S25ActividadEjerciciosDePractica1.ejecutar(scanner);
                     break;
-               
+                case 2:
+                    S25ActividadEjerciciosDePractica2.main(null); // Llama al ejercicio de pilas
+                    break;
                 case 0:
                     System.out.println("Cerrando...");
                     break;
